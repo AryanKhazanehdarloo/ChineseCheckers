@@ -1,0 +1,4531 @@
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+p1:-1 0 Change 31510 created with 55 open file(s).
+p1:-1 0 Submitting change 31510.
+p1:-1 0 Locking 55 files ...
+p1:-1 0 add //GPII-13/main/Assets/Prefabs.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Prefabs/Ball-blue.prefab#1
+p1:-1 0 add //GPII-13/main/Assets/Prefabs/Ball-blue.prefab.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Prefabs/Ball-cyan.prefab#1
+p1:-1 0 add //GPII-13/main/Assets/Prefabs/Ball-cyan.prefab.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Prefabs/Ball-green.prefab#1
+p1:-1 1 add //GPII-13/main/Assets/Prefabs/Ball-green.prefab.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Prefabs/Ball-magenta.prefab#1
+p1:-1 1 add //GPII-13/main/Assets/Prefabs/Ball-magenta.prefab.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Prefabs/Ball-red.prefab#1
+p1:-1 1 add //GPII-13/main/Assets/Prefabs/Ball-red.prefab.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Prefabs/Ball-yellow.prefab#1
+p1:-1 1 add //GPII-13/main/Assets/Prefabs/Ball-yellow.prefab.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Resources.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Resources/BillingMode.json#1
+p1:-1 1 add //GPII-13/main/Assets/Resources/BillingMode.json.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Scenes.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Scenes/Main.unity#1
+p1:-1 1 add //GPII-13/main/Assets/Scenes/Main.unity.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/BoardController.cs#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/BoardController.cs.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/BoardModel.cs#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/BoardModel.cs.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/BoardView.cs#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/BoardView.cs.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/GUIHandler.cs#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/GUIHandler.cs.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/IMiniMax.cs#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/IMiniMax.cs.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/MVC.cs#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/MVC.cs.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/Piece.cs#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/Piece.cs.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/State.cs#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/State.cs.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/Utility.cs#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/Utility.cs.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Textures.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Textures/Ball-blue.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-blue.png: Åtkomst nekad. 
+
+p1:-1 12 add //GPII-13/main/Assets/Textures/Ball-blue.png.meta#1
+p1:-1 12 add //GPII-13/main/Assets/Textures/Ball-cyan.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-cyan.png: Åtkomst nekad. 
+
+p1:-1 22 add //GPII-13/main/Assets/Textures/Ball-cyan.png.meta#1
+p1:-1 22 add //GPII-13/main/Assets/Textures/Ball-green.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-green.png: Åtkomst nekad. 
+
+p1:-1 32 add //GPII-13/main/Assets/Textures/Ball-green.png.meta#1
+p1:-1 32 add //GPII-13/main/Assets/Textures/Ball-magenta.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-magenta.png: Åtkomst nekad. 
+
+p1:-1 43 add //GPII-13/main/Assets/Textures/Ball-magenta.png.meta#1
+p1:-1 43 add //GPII-13/main/Assets/Textures/Ball-red.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-red.png: Åtkomst nekad. 
+
+p1:-1 53 add //GPII-13/main/Assets/Textures/Ball-red.png.meta#1
+p1:-1 53 add //GPII-13/main/Assets/Textures/Ball-yellow.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-yellow.png: Åtkomst nekad. 
+
+p1:-1 63 add //GPII-13/main/Assets/Textures/Ball-yellow.png.meta#1
+p1:-1 63 add //GPII-13/main/Assets/Textures/Board.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Board.png: Åtkomst nekad. 
+
+p1:-1 73 add //GPII-13/main/Assets/Textures/Board.png.meta#1
+p1:-1 73 add //GPII-13/main/Assets/Textures/Marker.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Marker.png: Åtkomst nekad. 
+
+p1:-1 83 add //GPII-13/main/Assets/Textures/Marker.png.meta#1
+Submit aborted -- fix problems then use 'p4 submit -c 31510'.
+Some file(s) could not be transferred from client.
+
+e1:Some file(s) could not be transferred from client.\n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-blue.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-cyan.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-green.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-magenta.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-red.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-yellow.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Board.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Marker.png: Åtkomst nekad. \n
+p1:-1 0 Change 31511 created with 55 open file(s).
+p1:-1 0 Submitting change 31511.
+p1:-1 0 add //GPII-13/main/Assets/Prefabs.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Prefabs/Ball-blue.prefab#1
+p1:-1 0 add //GPII-13/main/Assets/Prefabs/Ball-blue.prefab.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Prefabs/Ball-cyan.prefab#1
+p1:-1 0 add //GPII-13/main/Assets/Prefabs/Ball-cyan.prefab.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Prefabs/Ball-green.prefab#1
+p1:-1 0 add //GPII-13/main/Assets/Prefabs/Ball-green.prefab.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Prefabs/Ball-magenta.prefab#1
+p1:-1 0 add //GPII-13/main/Assets/Prefabs/Ball-magenta.prefab.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Prefabs/Ball-red.prefab#1
+p1:-1 0 add //GPII-13/main/Assets/Prefabs/Ball-red.prefab.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Prefabs/Ball-yellow.prefab#1
+p1:-1 0 add //GPII-13/main/Assets/Prefabs/Ball-yellow.prefab.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Resources.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Resources/BillingMode.json#1
+p1:-1 0 add //GPII-13/main/Assets/Resources/BillingMode.json.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Scenes.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Scenes/Main.unity#1
+p1:-1 0 add //GPII-13/main/Assets/Scenes/Main.unity.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Scripts.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Scripts/BoardController.cs#1
+p1:-1 0 add //GPII-13/main/Assets/Scripts/BoardController.cs.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Scripts/BoardModel.cs#1
+p1:-1 0 add //GPII-13/main/Assets/Scripts/BoardModel.cs.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Scripts/BoardView.cs#1
+p1:-1 0 add //GPII-13/main/Assets/Scripts/BoardView.cs.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Scripts/GUIHandler.cs#1
+p1:-1 0 add //GPII-13/main/Assets/Scripts/GUIHandler.cs.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Scripts/IMiniMax.cs#1
+p1:-1 0 add //GPII-13/main/Assets/Scripts/IMiniMax.cs.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Scripts/MVC.cs#1
+p1:-1 0 add //GPII-13/main/Assets/Scripts/MVC.cs.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Scripts/Piece.cs#1
+p1:-1 0 add //GPII-13/main/Assets/Scripts/Piece.cs.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Scripts/State.cs#1
+p1:-1 0 add //GPII-13/main/Assets/Scripts/State.cs.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Scripts/Utility.cs#1
+p1:-1 0 add //GPII-13/main/Assets/Scripts/Utility.cs.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Textures.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Textures/Ball-blue.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-blue.png: Åtkomst nekad. 
+
+p1:-1 11 add //GPII-13/main/Assets/Textures/Ball-blue.png.meta#1
+p1:-1 11 add //GPII-13/main/Assets/Textures/Ball-cyan.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-cyan.png: Åtkomst nekad. 
+
+p1:-1 21 add //GPII-13/main/Assets/Textures/Ball-cyan.png.meta#1
+p1:-1 21 add //GPII-13/main/Assets/Textures/Ball-green.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-green.png: Åtkomst nekad. 
+
+p1:-1 31 add //GPII-13/main/Assets/Textures/Ball-green.png.meta#1
+p1:-1 31 add //GPII-13/main/Assets/Textures/Ball-magenta.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-magenta.png: Åtkomst nekad. 
+
+p1:-1 41 add //GPII-13/main/Assets/Textures/Ball-magenta.png.meta#1
+p1:-1 41 add //GPII-13/main/Assets/Textures/Ball-red.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-red.png: Åtkomst nekad. 
+
+p1:-1 51 add //GPII-13/main/Assets/Textures/Ball-red.png.meta#1
+p1:-1 51 add //GPII-13/main/Assets/Textures/Ball-yellow.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-yellow.png: Åtkomst nekad. 
+
+p1:-1 61 add //GPII-13/main/Assets/Textures/Ball-yellow.png.meta#1
+p1:-1 61 add //GPII-13/main/Assets/Textures/Board.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Board.png: Åtkomst nekad. 
+
+p1:-1 72 add //GPII-13/main/Assets/Textures/Board.png.meta#1
+p1:-1 72 add //GPII-13/main/Assets/Textures/Marker.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Marker.png: Åtkomst nekad. 
+
+p1:-1 82 add //GPII-13/main/Assets/Textures/Marker.png.meta#1
+Submit aborted -- fix problems then use 'p4 submit -c 31511'.
+Some file(s) could not be transferred from client.
+
+e1:Some file(s) could not be transferred from client.\n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-blue.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-cyan.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-green.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-magenta.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-red.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-yellow.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Board.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Marker.png: Åtkomst nekad. \n
+p1:-1 0 Change 31512 created with 13 open file(s).
+p1:-1 0 Submitting change 31512.
+p1:-1 0 add //GPII-13/main/Assets/Prefabs.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Prefabs/Ball-blue.prefab#1
+p1:-1 0 add //GPII-13/main/Assets/Prefabs/Ball-blue.prefab.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Prefabs/Ball-cyan.prefab#1
+p1:-1 0 add //GPII-13/main/Assets/Prefabs/Ball-cyan.prefab.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Prefabs/Ball-green.prefab#1
+p1:-1 0 add //GPII-13/main/Assets/Prefabs/Ball-green.prefab.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Prefabs/Ball-magenta.prefab#1
+p1:-1 0 add //GPII-13/main/Assets/Prefabs/Ball-magenta.prefab.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Prefabs/Ball-red.prefab#1
+p1:-1 0 add //GPII-13/main/Assets/Prefabs/Ball-red.prefab.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Prefabs/Ball-yellow.prefab#1
+p1:-1 0 add //GPII-13/main/Assets/Prefabs/Ball-yellow.prefab.meta#1
+p1:-1 0 Change 31512 submitted.
+p1:-1 1 Change 31513 created with 3 open file(s).
+p1:-1 1 Submitting change 31513.
+p1:-1 1 add //GPII-13/main/Assets/Resources.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Resources/BillingMode.json#1
+p1:-1 1 add //GPII-13/main/Assets/Resources/BillingMode.json.meta#1
+p1:-1 1 Change 31513 submitted.
+p1:-1 0 Change 31514 created with 3 open file(s).
+p1:-1 0 Submitting change 31514.
+p1:-1 0 add //GPII-13/main/Assets/Scenes.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Scenes/Main.unity#1
+p1:-1 0 add //GPII-13/main/Assets/Scenes/Main.unity.meta#1
+p1:-1 1 Change 31514 submitted.
+p1:-1 1 Change 31515 created with 19 open file(s).
+p1:-1 1 Submitting change 31515.
+p1:-1 1 add //GPII-13/main/Assets/Scripts.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/BoardController.cs#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/BoardController.cs.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/BoardModel.cs#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/BoardModel.cs.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/BoardView.cs#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/BoardView.cs.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/GUIHandler.cs#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/GUIHandler.cs.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/IMiniMax.cs#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/IMiniMax.cs.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/MVC.cs#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/MVC.cs.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/Piece.cs#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/Piece.cs.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/State.cs#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/State.cs.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/Utility.cs#1
+p1:-1 1 add //GPII-13/main/Assets/Scripts/Utility.cs.meta#1
+p1:-1 1 Change 31515 submitted.
+p1:-1 1 Change 31517 created with 17 open file(s).
+p1:-1 1 Submitting change 31517.
+p1:-1 1 add //GPII-13/main/Assets/Textures.meta#1
+p1:-1 1 add //GPII-13/main/Assets/Textures/Ball-blue.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-blue.png: Åtkomst nekad. 
+
+p1:-1 11 add //GPII-13/main/Assets/Textures/Ball-blue.png.meta#1
+p1:-1 11 add //GPII-13/main/Assets/Textures/Ball-cyan.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-cyan.png: Åtkomst nekad. 
+
+p1:-1 21 add //GPII-13/main/Assets/Textures/Ball-cyan.png.meta#1
+p1:-1 21 add //GPII-13/main/Assets/Textures/Ball-green.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-green.png: Åtkomst nekad. 
+
+p1:-1 31 add //GPII-13/main/Assets/Textures/Ball-green.png.meta#1
+p1:-1 31 add //GPII-13/main/Assets/Textures/Ball-magenta.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-magenta.png: Åtkomst nekad. 
+
+p1:-1 41 add //GPII-13/main/Assets/Textures/Ball-magenta.png.meta#1
+p1:-1 41 add //GPII-13/main/Assets/Textures/Ball-red.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-red.png: Åtkomst nekad. 
+
+p1:-1 51 add //GPII-13/main/Assets/Textures/Ball-red.png.meta#1
+p1:-1 51 add //GPII-13/main/Assets/Textures/Ball-yellow.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-yellow.png: Åtkomst nekad. 
+
+p1:-1 61 add //GPII-13/main/Assets/Textures/Ball-yellow.png.meta#1
+p1:-1 61 add //GPII-13/main/Assets/Textures/Board.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Board.png: Åtkomst nekad. 
+
+p1:-1 72 add //GPII-13/main/Assets/Textures/Board.png.meta#1
+p1:-1 72 add //GPII-13/main/Assets/Textures/Marker.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Marker.png: Åtkomst nekad. 
+
+p1:-1 82 add //GPII-13/main/Assets/Textures/Marker.png.meta#1
+Submit aborted -- fix problems then use 'p4 submit -c 31517'.
+Some file(s) could not be transferred from client.
+
+e1:Some file(s) could not be transferred from client.\n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-blue.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-cyan.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-green.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-magenta.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-red.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-yellow.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Board.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Marker.png: Åtkomst nekad. \n
+p1:-1 0 Change 31520 created with 2 open file(s).
+p1:-1 0 Submitting change 31520.
+p1:-1 0 add //GPII-13/main/Assets/Textures/Ball-blue.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-blue.png: Åtkomst nekad. 
+
+p1:-1 10 add //GPII-13/main/Assets/Textures/Ball-blue.png.meta#1
+Submit aborted -- fix problems then use 'p4 submit -c 31520'.
+Some file(s) could not be transferred from client.
+
+e1:Some file(s) could not be transferred from client.\n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-blue.png: Åtkomst nekad. \n
+p1:-1 0 Change 31521 created with 17 open file(s).
+p1:-1 0 Submitting change 31521.
+p1:-1 0 Locking 17 files ...
+p1:-1 0 add //GPII-13/main/Assets/Textures.meta#1
+p1:-1 0 add //GPII-13/main/Assets/Textures/Ball-blue.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-blue.png: Åtkomst nekad. 
+
+p1:-1 11 add //GPII-13/main/Assets/Textures/Ball-blue.png.meta#1
+p1:-1 11 add //GPII-13/main/Assets/Textures/Ball-cyan.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-cyan.png: Åtkomst nekad. 
+
+p1:-1 21 add //GPII-13/main/Assets/Textures/Ball-cyan.png.meta#1
+p1:-1 21 add //GPII-13/main/Assets/Textures/Ball-green.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-green.png: Åtkomst nekad. 
+
+p1:-1 31 add //GPII-13/main/Assets/Textures/Ball-green.png.meta#1
+p1:-1 31 add //GPII-13/main/Assets/Textures/Ball-magenta.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-magenta.png: Åtkomst nekad. 
+
+p1:-1 41 add //GPII-13/main/Assets/Textures/Ball-magenta.png.meta#1
+p1:-1 41 add //GPII-13/main/Assets/Textures/Ball-red.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-red.png: Åtkomst nekad. 
+
+p1:-1 51 add //GPII-13/main/Assets/Textures/Ball-red.png.meta#1
+p1:-1 51 add //GPII-13/main/Assets/Textures/Ball-yellow.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-yellow.png: Åtkomst nekad. 
+
+p1:-1 61 add //GPII-13/main/Assets/Textures/Ball-yellow.png.meta#1
+p1:-1 61 add //GPII-13/main/Assets/Textures/Board.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Board.png: Åtkomst nekad. 
+
+p1:-1 72 add //GPII-13/main/Assets/Textures/Board.png.meta#1
+p1:-1 72 add //GPII-13/main/Assets/Textures/Marker.png#1
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Marker.png: Åtkomst nekad. 
+
+p1:-1 82 add //GPII-13/main/Assets/Textures/Marker.png.meta#1
+Submit aborted -- fix problems then use 'p4 submit -c 31521'.
+Some file(s) could not be transferred from client.
+
+e1:Some file(s) could not be transferred from client.\n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-blue.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-cyan.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-green.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-magenta.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-red.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-yellow.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Board.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Marker.png: Åtkomst nekad. \n
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+p1:-1 0 Change 31532 created with 6 open file(s).
+p1:-1 0 Submitting change 31532.
+p1:-1 0 Locking 6 files ...
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardController.cs#2
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardController.cs.meta#2
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardModel.cs#2
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardModel.cs.meta#2
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardView.cs#2
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardView.cs.meta#2
+p1:-1 0 Change 31532 submitted.
+p1:-1 0 Change 31533 created with 2 open file(s).
+p1:-1 0 Submitting change 31533.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardModel.cs#3
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardModel.cs.meta#3
+p1:-1 0 Change 31533 submitted.
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+p1:-1 0 Change 31536 created with 2 open file(s).
+p1:-1 0 Submitting change 31536.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardModel.cs#4
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardModel.cs.meta#4
+p1:-1 0 Change 31536 submitted.
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+p1:-1 0 Change 31538 created with 2 open file(s).
+p1:-1 0 Submitting change 31538.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardModel.cs#5
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardModel.cs.meta#5
+p1:-1 0 Change 31538 submitted.
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+p1:-1 0 Change 31563 created with 2 open file(s).
+p1:-1 0 Submitting change 31563.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardModel.cs#6
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardModel.cs.meta#6
+p1:-1 0 Change 31563 submitted.
+p1:-1 0 Change 31564 created with 2 open file(s).
+p1:-1 0 Submitting change 31564.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardModel.cs#7
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardModel.cs.meta#7
+p1:-1 0 Change 31564 submitted.
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+p1:-1 0 Change 31595 created with 2 open file(s).
+p1:-1 0 Submitting change 31595.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardModel.cs#8
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardModel.cs.meta#8
+p1:-1 0 Change 31595 submitted.
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Unhandled exception: Readfile from pipe failed. GLE=Denna pipe har avslutats.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+p1:-1 0 Change 31633 created.
+p1:-1 1 Change 31634 created with 2 open file(s).
+p1:-1 1 Submitting change 31634.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/BoardModel.cs#9
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/BoardModel.cs.meta#9
+p1:-1 1 Change 31634 submitted.
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+p1:-1 0 Change 31656 created with 2 open file(s).
+p1:-1 0 Submitting change 31656.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardModel.cs#10
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardModel.cs.meta#10
+p1:-1 1 Change 31656 submitted.
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+p1:-1 0 Change 31671 created with 6 open file(s).
+p1:-1 0 Submitting change 31671.
+p1:-1 0 Locking 6 files ...
+p1:-1 0 edit //GPII-13/main/Assets/Scenes/Main.unity#2
+p1:-1 0 edit //GPII-13/main/Assets/Scenes/Main.unity.meta#2
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardModel.cs#11
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardModel.cs.meta#11
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/Piece.cs#2
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/Piece.cs.meta#2
+p1:-1 0 Change 31671 submitted.
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+p1:-1 0 Change 31672 created with 2 open file(s).
+p1:-1 0 Submitting change 31672.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardModel.cs#12
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardModel.cs.meta#12
+p1:-1 0 Change 31672 submitted.
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+p1:-1 0 Change 31694 created with 5 open file(s).
+p1:-1 0 Submitting change 31694.
+p1:-1 0 Locking 5 files ...
+p1:-1 0 edit //GPII-13/main/Assets/Scenes/Main.unity#3
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardModel.cs#13
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardModel.cs.meta#13
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/IMiniMax.cs#2
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/IMiniMax.cs.meta#2
+p1:-1 0 Change 31694 submitted.
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+p1:-1 0 Change 31695 created with 2 open file(s).
+p1:-1 0 Submitting change 31695.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardModel.cs#14
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardModel.cs.meta#14
+p1:-1 0 Change 31695 submitted.
+Error: Unicode server permits only unicode enabled clients.
+
+p1:-1 1 Change 31699 created with 2 open file(s).
+p1:-1 1 Submitting change 31699.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/BoardModel.cs#15
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/BoardModel.cs.meta#15
+p1:-1 1 Change 31699 submitted.
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+p1:-1 0 Change 31714 created with 2 open file(s).
+p1:-1 0 Submitting change 31714.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardModel.cs#16
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardModel.cs.meta#16
+p1:-1 1 Change 31714 submitted.
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+p1:-1 1 Change 31760 created with 18 open file(s).
+p1:-1 1 Submitting change 31760.
+p1:-1 1 Locking 18 files ...
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-blue.prefab#2
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-blue.prefab.meta#2
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-cyan.prefab#2
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-cyan.prefab.meta#2
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-green.prefab#2
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-green.prefab.meta#2
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-magenta.prefab#2
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-magenta.prefab.meta#2
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-red.prefab#2
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-red.prefab.meta#2
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-yellow.prefab#2
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-yellow.prefab.meta#2
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/BoardModel.cs#17
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/BoardModel.cs.meta#17
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/IMiniMax.cs#3
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/IMiniMax.cs.meta#3
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/State.cs#2
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/State.cs.meta#2
+p1:-1 1 Change 31760 submitted.
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+p1:-1 1 Change 31765 created with 2 open file(s).
+p1:-1 1 Submitting change 31765.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/State.cs#3
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/State.cs.meta#3
+p1:-1 1 Change 31765 submitted.
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+p1:-1 0 Change 31774 created with 2 open file(s).
+p1:-1 0 Submitting change 31774.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //GPII-13/main/Assets/Scenes/Main.unity#4
+p1:-1 0 edit //GPII-13/main/Assets/Scenes/Main.unity.meta#3
+p1:-1 0 Change 31774 submitted.
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-blue.png: Åtkomst nekad. 
+
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-cyan.png: Åtkomst nekad. 
+
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-green.png: Åtkomst nekad. 
+
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-magenta.png: Åtkomst nekad. 
+
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-red.png: Åtkomst nekad. 
+
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-yellow.png: Åtkomst nekad. 
+
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Board.png: Åtkomst nekad. 
+
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Marker.png: Åtkomst nekad. 
+
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-blue.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-cyan.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-green.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-magenta.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-red.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-yellow.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Board.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Marker.png: Åtkomst nekad. \n
+p1:-1 1 Change 31793 created with 55 open file(s).
+p1:-1 1 Submitting change 31793.
+p1:-1 1 Locking 55 files ...
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs.meta#2
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-blue.prefab#3
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-blue.prefab.meta#3
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-cyan.prefab#3
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-cyan.prefab.meta#3
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-green.prefab#3
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-green.prefab.meta#3
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-magenta.prefab#3
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-magenta.prefab.meta#3
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-red.prefab#3
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-red.prefab.meta#3
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-yellow.prefab#3
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-yellow.prefab.meta#3
+p1:-1 1 edit //GPII-13/main/Assets/Resources.meta#2
+p1:-1 1 edit //GPII-13/main/Assets/Resources/BillingMode.json#2
+p1:-1 1 edit //GPII-13/main/Assets/Resources/BillingMode.json.meta#2
+p1:-1 1 edit //GPII-13/main/Assets/Scenes.meta#2
+p1:-1 1 edit //GPII-13/main/Assets/Scenes/Main.unity#5
+p1:-1 1 edit //GPII-13/main/Assets/Scenes/Main.unity.meta#4
+p1:-1 1 edit //GPII-13/main/Assets/Scripts.meta#2
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/BoardController.cs#3
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/BoardController.cs.meta#3
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/BoardModel.cs#18
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/BoardModel.cs.meta#18
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/BoardView.cs#3
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/BoardView.cs.meta#3
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/GUIHandler.cs#2
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/GUIHandler.cs.meta#2
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/IMiniMax.cs#4
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/IMiniMax.cs.meta#4
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/MVC.cs#2
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/MVC.cs.meta#2
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/Piece.cs#3
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/Piece.cs.meta#3
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/State.cs#4
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/State.cs.meta#4
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/Utility.cs#2
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/Utility.cs.meta#2
+p1:-1 1 edit //GPII-13/main/Assets/Textures.meta#2
+p1:-1 1 edit //GPII-13/main/Assets/Textures/Ball-blue.png#2
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-blue.png: Åtkomst nekad. 
+
+p1:-1 11 edit //GPII-13/main/Assets/Textures/Ball-blue.png.meta#2
+p1:-1 11 edit //GPII-13/main/Assets/Textures/Ball-cyan.png#2
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-cyan.png: Åtkomst nekad. 
+
+p1:-1 21 edit //GPII-13/main/Assets/Textures/Ball-cyan.png.meta#2
+p1:-1 21 edit //GPII-13/main/Assets/Textures/Ball-green.png#2
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-green.png: Åtkomst nekad. 
+
+p1:-1 31 edit //GPII-13/main/Assets/Textures/Ball-green.png.meta#2
+p1:-1 31 edit //GPII-13/main/Assets/Textures/Ball-magenta.png#2
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-magenta.png: Åtkomst nekad. 
+
+p1:-1 41 edit //GPII-13/main/Assets/Textures/Ball-magenta.png.meta#2
+p1:-1 41 edit //GPII-13/main/Assets/Textures/Ball-red.png#2
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-red.png: Åtkomst nekad. 
+
+p1:-1 51 edit //GPII-13/main/Assets/Textures/Ball-red.png.meta#2
+p1:-1 51 edit //GPII-13/main/Assets/Textures/Ball-yellow.png#2
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-yellow.png: Åtkomst nekad. 
+
+p1:-1 61 edit //GPII-13/main/Assets/Textures/Ball-yellow.png.meta#2
+p1:-1 61 edit //GPII-13/main/Assets/Textures/Board.png#2
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Board.png: Åtkomst nekad. 
+
+p1:-1 72 edit //GPII-13/main/Assets/Textures/Board.png.meta#2
+p1:-1 72 edit //GPII-13/main/Assets/Textures/Marker.png#2
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Marker.png: Åtkomst nekad. 
+
+p1:-1 82 edit //GPII-13/main/Assets/Textures/Marker.png.meta#2
+Submit aborted -- fix problems then use 'p4 submit -c 31793'.
+Some file(s) could not be transferred from client.
+
+e1:Some file(s) could not be transferred from client.\n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-blue.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-cyan.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-green.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-magenta.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-red.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-yellow.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Board.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Marker.png: Åtkomst nekad. \n
+p1:-1 1 Change 31795 created with 19 open file(s).
+p1:-1 1 Submitting change 31795.
+p1:-1 1 edit //GPII-13/main/Assets/Scripts.meta#2
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/BoardController.cs#3
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/BoardController.cs.meta#3
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/BoardModel.cs#18
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/BoardModel.cs.meta#18
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/BoardView.cs#3
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/BoardView.cs.meta#3
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/GUIHandler.cs#2
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/GUIHandler.cs.meta#2
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/IMiniMax.cs#4
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/IMiniMax.cs.meta#4
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/MVC.cs#2
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/MVC.cs.meta#2
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/Piece.cs#3
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/Piece.cs.meta#3
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/State.cs#4
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/State.cs.meta#4
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/Utility.cs#2
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/Utility.cs.meta#2
+p1:-1 1 Change 31795 submitted.
+p1:-1 1 Change 31796 created with 36 open file(s).
+p1:-1 1 Submitting change 31796.
+p1:-1 1 Locking 17 files ...
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs.meta#2
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-blue.prefab#3
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-blue.prefab.meta#3
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-cyan.prefab#3
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-cyan.prefab.meta#3
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-green.prefab#3
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-green.prefab.meta#3
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-magenta.prefab#3
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-magenta.prefab.meta#3
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-red.prefab#3
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-red.prefab.meta#3
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-yellow.prefab#3
+p1:-1 1 edit //GPII-13/main/Assets/Prefabs/Ball-yellow.prefab.meta#3
+p1:-1 1 edit //GPII-13/main/Assets/Resources.meta#2
+p1:-1 1 edit //GPII-13/main/Assets/Resources/BillingMode.json#2
+p1:-1 1 edit //GPII-13/main/Assets/Resources/BillingMode.json.meta#2
+p1:-1 1 edit //GPII-13/main/Assets/Scenes.meta#2
+p1:-1 1 edit //GPII-13/main/Assets/Scenes/Main.unity#5
+p1:-1 1 edit //GPII-13/main/Assets/Scenes/Main.unity.meta#4
+p1:-1 1 edit //GPII-13/main/Assets/Textures.meta#2
+p1:-1 1 edit //GPII-13/main/Assets/Textures/Ball-blue.png#2
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-blue.png: Åtkomst nekad. 
+
+p1:-1 11 edit //GPII-13/main/Assets/Textures/Ball-blue.png.meta#2
+p1:-1 11 edit //GPII-13/main/Assets/Textures/Ball-cyan.png#2
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-cyan.png: Åtkomst nekad. 
+
+p1:-1 21 edit //GPII-13/main/Assets/Textures/Ball-cyan.png.meta#2
+p1:-1 21 edit //GPII-13/main/Assets/Textures/Ball-green.png#2
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-green.png: Åtkomst nekad. 
+
+p1:-1 31 edit //GPII-13/main/Assets/Textures/Ball-green.png.meta#2
+p1:-1 31 edit //GPII-13/main/Assets/Textures/Ball-magenta.png#2
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-magenta.png: Åtkomst nekad. 
+
+p1:-1 42 edit //GPII-13/main/Assets/Textures/Ball-magenta.png.meta#2
+p1:-1 42 edit //GPII-13/main/Assets/Textures/Ball-red.png#2
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-red.png: Åtkomst nekad. 
+
+p1:-1 52 edit //GPII-13/main/Assets/Textures/Ball-red.png.meta#2
+p1:-1 52 edit //GPII-13/main/Assets/Textures/Ball-yellow.png#2
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Ball-yellow.png: Åtkomst nekad. 
+
+p1:-1 62 edit //GPII-13/main/Assets/Textures/Ball-yellow.png.meta#2
+p1:-1 62 edit //GPII-13/main/Assets/Textures/Board.png#2
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Board.png: Åtkomst nekad. 
+
+p1:-1 72 edit //GPII-13/main/Assets/Textures/Board.png.meta#2
+p1:-1 72 edit //GPII-13/main/Assets/Textures/Marker.png#2
+chmod: C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate\Assets\Textures\Marker.png: Åtkomst nekad. 
+
+p1:-1 82 edit //GPII-13/main/Assets/Textures/Marker.png.meta#2
+Submit aborted -- fix problems then use 'p4 submit -c 31796'.
+Some file(s) could not be transferred from client.
+
+e1:Some file(s) could not be transferred from client.\n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-blue.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-cyan.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-green.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-magenta.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-red.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Ball-yellow.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Board.png: Åtkomst nekad. \n
+e1:chmod: C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate\\Assets\\Textures\\Marker.png: Åtkomst nekad. \n
+p1:-1 0 Change 31797 created with 13 open file(s).
+p1:-1 0 Submitting change 31797.
+p1:-1 0 edit //GPII-13/main/Assets/Prefabs.meta#2
+p1:-1 0 edit //GPII-13/main/Assets/Prefabs/Ball-blue.prefab#3
+p1:-1 0 edit //GPII-13/main/Assets/Prefabs/Ball-blue.prefab.meta#3
+p1:-1 0 edit //GPII-13/main/Assets/Prefabs/Ball-cyan.prefab#3
+p1:-1 0 edit //GPII-13/main/Assets/Prefabs/Ball-cyan.prefab.meta#3
+p1:-1 0 edit //GPII-13/main/Assets/Prefabs/Ball-green.prefab#3
+p1:-1 0 edit //GPII-13/main/Assets/Prefabs/Ball-green.prefab.meta#3
+p1:-1 0 edit //GPII-13/main/Assets/Prefabs/Ball-magenta.prefab#3
+p1:-1 0 edit //GPII-13/main/Assets/Prefabs/Ball-magenta.prefab.meta#3
+p1:-1 0 edit //GPII-13/main/Assets/Prefabs/Ball-red.prefab#3
+p1:-1 0 edit //GPII-13/main/Assets/Prefabs/Ball-red.prefab.meta#3
+p1:-1 0 edit //GPII-13/main/Assets/Prefabs/Ball-yellow.prefab#3
+p1:-1 0 edit //GPII-13/main/Assets/Prefabs/Ball-yellow.prefab.meta#3
+p1:-1 0 Change 31797 submitted.
+p1:-1 1 Change 31798 created with 3 open file(s).
+p1:-1 1 Submitting change 31798.
+p1:-1 1 edit //GPII-13/main/Assets/Scenes.meta#2
+p1:-1 1 edit //GPII-13/main/Assets/Scenes/Main.unity#5
+p1:-1 1 edit //GPII-13/main/Assets/Scenes/Main.unity.meta#4
+p1:-1 1 Change 31798 submitted.
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+p1:-1 1 Change 31800 created with 2 open file(s).
+p1:-1 1 Submitting change 31800.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/BoardModel.cs#19
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/BoardModel.cs.meta#19
+p1:-1 1 Change 31800 submitted.
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+p1:-1 1 Change 31822 created with 4 open file(s).
+p1:-1 1 Submitting change 31822.
+p1:-1 1 Locking 4 files ...
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/BoardModel.cs#20
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/BoardModel.cs.meta#20
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/State.cs#5
+p1:-1 1 edit //GPII-13/main/Assets/Scripts/State.cs.meta#5
+p1:-1 1 Change 31822 submitted.
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+p1:-1 0 Change 31823 created with 2 open file(s).
+p1:-1 0 Submitting change 31823.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardModel.cs#21
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/BoardModel.cs.meta#21
+p1:-1 0 Change 31823 submitted.
+Error: Unicode server permits only unicode enabled clients.
+
+p1:-1 0 Change 31824 created with 2 open file(s).
+p1:-1 0 Submitting change 31824.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/IMiniMax.cs#5
+p1:-1 0 edit //GPII-13/main/Assets/Scripts/IMiniMax.cs.meta#5
+p1:-1 1 Change 31824 submitted.
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Error: Unicode server permits only unicode enabled clients.
+
+Path 'C:/Users/AryanAsus/Desktop/ChineseCheckers\testForProjectRootMapping' is not under client's root 'C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate'.
+
+Error: Path 'C:/Users/AryanAsus/Desktop/ChineseCheckers\testForProjectRootMapping' is not under client's root 'C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate'.
+
+e32:Path 'C:/Users/AryanAsus/Desktop/ChineseCheckers\\testForProjectRootMapping' is not under client's root 'C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate'.\n
+Error: Unicode server permits only unicode enabled clients.
+
+Path 'C:/Users/AryanAsus/Desktop/ChineseCheckers\testForProjectRootMapping' is not under client's root 'C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate'.
+
+Error: Path 'C:/Users/AryanAsus/Desktop/ChineseCheckers\testForProjectRootMapping' is not under client's root 'C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate'.
+
+e32:Path 'C:/Users/AryanAsus/Desktop/ChineseCheckers\\testForProjectRootMapping' is not under client's root 'C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate'.\n
+Error: Unicode server permits only unicode enabled clients.
+
+Path 'C:/Users/AryanAsus/Desktop/ChineseCheckers\testForProjectRootMapping' is not under client's root 'C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate'.
+
+Error: Path 'C:/Users/AryanAsus/Desktop/ChineseCheckers\testForProjectRootMapping' is not under client's root 'C:\Users\AryanAsus\Desktop\ChineseCheckersTemplate'.
+
+e32:Path 'C:/Users/AryanAsus/Desktop/ChineseCheckers\\testForProjectRootMapping' is not under client's root 'C:\\Users\\AryanAsus\\Desktop\\ChineseCheckersTemplate'.\n
